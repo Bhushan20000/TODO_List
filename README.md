@@ -1,2 +1,1 @@
-# TODO_List
-By using react
+# Boilerplate Todo list
